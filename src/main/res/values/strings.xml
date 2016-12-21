@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">EatXpress</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_course">Course</string>
+    <string name="title_activity_choice">ChoiceActivity</string>
+    <string name="title_activity_drinks">Drinks</string>
+    <string name="title_activity_main_course">MainCourse</string>
+    <string name="title_activity_dessert">Dessert</string>
+    <string name="title_activity_rate_us">RateUs</string>
+    <string name="title_activity_confirm_order">ConfirmOrder</string>
+    <string name="title_activity_waiting_food">WaitingFood</string>
+    <string name="title_activity_eating">Eating</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_paypal">Paypal</string>
+    <string name="done">Done</string>
+    <string name="quantity">0</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="cash">Pay Cash</string>
+
+    <array name="icons">
+        <item>@drawable/facebook</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/facebook</item>
+    </array>
+
+    <!--start activity-->
+    <string name="usernameHint">User Name</string>
+    <string name="passwordHint">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="errorMsg">Wrong username/password</string>
+    <string name="wait">Please wait...</string>
+    <string name="tabel">Table #:</string>
+
+    <!--course activity-->
+    <string name="serving">We are currently serving:</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="exception">Exception caught</string>
+
+    <!--choice activity-->
+    <string name="order">Order</string>
+    <string name="menu">Menu</string>
+    <string name="mainCourse">Main Course</string>
+    <string name="drinks">Drinks</string>
+    <string name="dessert">Dessert</string>
+
+    <!--eating activity-->
+    <string name="enjoy">Enjoy!</string>
+    <string name="proceed">Proceed to Payment</string>
+
+    <!--rate us-->
+    <string name="thankyou">Thank You!</string>
+    <string name="email">Email</string>
+    <string name="comment">Comment</string>
+    <string name="subscribe">Email subscription (optional)</string>
+    <string name="submit">Submit</string>
+
+    <!--waiting activity-->
+    <string name="waiting">Your order will arrive shortly</string>
+    <string name="confirm">Confirmation code:</string>
+    <string name="msg">This pop up is intended for the waitress when food is delivered.</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+
+    <!--payment activity-->
+    <string name="payment">Payment</string>
+    <string name="total">Total: $</string>
+
+    <!--PayPal-->
+    <string name="mealTotal">Meal Total</string>
+    <string name="orderPlaced">Order placed</string>
+    <string name="paymentCancelled">The user canceled.</string>
+    <string name="error2">An invalid Payment or PayPalConfiguration was submitted. Please see the docs.</string>
+    <string name="future">FuturePaymentExample</string>
+    <string name="future2">Future Payment code received from PayPal</string>
+    <string name="oops">an extremely unlikely failure occurred: </string>
+    <string name="error3">Probably the attempt to previously start the PayPalService had an invalid PayPalConfiguration. Please see the docs.</string>
+
+    <!--confirm order activity-->
+    <string name="confirms">Confirm your order</string>
+    <string name="back">Back</string>
+
+    
+</resources>
